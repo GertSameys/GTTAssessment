@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTT_Gert_Sameys", "GTT_Gert_Sameys\GTT_Gert_Sameys\GTT_Gert_Sameys.csproj", "{241B29EF-B1CD-4B77-AFBC-FE3C8019752E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTT_Gert_Sameys.Client", "GTT_Gert_Sameys\GTT_Gert_Sameys.Client\GTT_Gert_Sameys.Client.csproj", "{0A6C7C02-0D99-4FE8-A2A8-5F3BDDED221E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241B29EF-B1CD-4B77-AFBC-FE3C8019752E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241B29EF-B1CD-4B77-AFBC-FE3C8019752E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241B29EF-B1CD-4B77-AFBC-FE3C8019752E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241B29EF-B1CD-4B77-AFBC-FE3C8019752E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6C7C02-0D99-4FE8-A2A8-5F3BDDED221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6C7C02-0D99-4FE8-A2A8-5F3BDDED221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6C7C02-0D99-4FE8-A2A8-5F3BDDED221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6C7C02-0D99-4FE8-A2A8-5F3BDDED221E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
